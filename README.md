@@ -4,7 +4,7 @@ Solutions for Hackerrank Python Problems by Viraj Shetty
 ## About Me
 Hi, I'm Viraj Shetty  
 **You can find me on Hackerrank** -   
-**Hackerrank Username** - [viraj_shetty](https://www.hackerrank.com/viraj_shetty?hr_r=1)
+**Hackerrank Username** - [viraj_shetty](https://www.hackerrank.com/viraj_shetty?hr_r=1)<br/>
 
 ## Solutions for Problems
 **The name of these problems are exactly as the problem name on [Hackerrank](https://www.hackerrank.com/domains/python)**
